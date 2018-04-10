@@ -1,0 +1,14 @@
+name: Ark
+symbol: ARK
+url: https://ark.io/
+consensus: DPoS
+incentivized: Y
+consensus_distribution: 51
+consensus_distribution_source: https://mainnet.arkexplorer.com/delegateMonitor
+wealth_distribution: 36%
+wealth_distribution_source: https://explorer.ark.io/top-wallets/1
+client_codebases: 3+
+client_codebases_source: https://github.com/ArkEcosystem
+public_nodes: 1460
+public_nodes_source: https://explorer.arkcoin.net/networkMonitor
+notes: The "Delegates" are run by the community. 1 Ark vote per 1 Delegate.
